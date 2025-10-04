@@ -1,6 +1,8 @@
-# Turbulence Energy Spectra
+<h1 align="center">Turbulence Energy Spectra</h1>
 
-![Spectra airflow demo](spectra.gif)
+<p align="center">
+  <img src="spectra.gif" alt="Spectra airflow demo">
+</p>
 
 Spectra is a lightweight, browser-based visualisation that streams particles across a fixed STL model and colours them by velocity & vorticity once they collide with the geometry. The app highlights the full downstream path of disturbed particles so you can see how the car’s curved surfaces sculpt the wake.
 
